@@ -1,0 +1,6 @@
+Summary
+Many of PHP’s networking capabilities won’t soon replace those tools already offered on 
+the command line or other well-established clients. Nonetheless, as PHP’s command-
+line capabilities continue to gain traction, it’s likely you’ll quickly find a use for some 
+of the material presented in this chapter, perhaps the e-mail dispatch capabilities if 
+nothing else. 

@@ -1,0 +1,13 @@
+{
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    },
+    "config": {
+        "vendor-dir": "vendor/"
+    },
+    "autoload": {
+        "psr-0": {
+            "My": "src/"
+        }
+    }
+}
